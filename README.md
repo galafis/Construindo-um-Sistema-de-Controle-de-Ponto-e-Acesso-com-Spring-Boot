@@ -1,6 +1,6 @@
 # Controle de Ponto - API REST
 
-Este projeto é uma API REST desenvolvida com **Spring Boot** para controle de ponto e acesso de usuários de uma empresa. Ele utiliza as seguintes tecnologias:
+Este projeto (SANTANDER BOOTCAMP FULLSTACK) é uma API REST desenvolvida com **Spring Boot** para controle de ponto e acesso de usuários de uma empresa. Ele utiliza as seguintes tecnologias:
 
 - Java 17+
 - Spring Boot
@@ -71,4 +71,4 @@ src/
 
 ---
 
-Desenvolvido como parte de um desafio técnico. 🚀
+Desenvolvido por um futuro cientista de dados, apaixonado por tecnologia e seguindo a missão de um desafio técnico. 🚀

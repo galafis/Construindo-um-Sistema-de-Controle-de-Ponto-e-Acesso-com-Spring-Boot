@@ -30,8 +30,7 @@ src/
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/controle-ponto.git
-   cd controle-ponto
+   git clone https://github.com/galafis/Construindo-um-Sistema-de-Controle-de-Ponto-e-Acesso-com-Spring-Boot
    ```
 
 2. Compile e execute o projeto:
